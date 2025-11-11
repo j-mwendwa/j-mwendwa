@@ -1,5 +1,5 @@
             # 💫 About Me:
-I'm deeply interested in<br>🚀 Augmented Reality (AR) — creating immersive educational and<br>                                                        gaming experiences using ARCore,Google XR<br><br>I'm currently learning:<br>⚙️ Mobile Frontend Development - using Kotlin and jetpack compose<br>⚙️ Backend Development — building solid architectures with Firebase, <br>                                                      Kotlin, and modern APIs.<br><br>🧠 Artificial Intelligence
+I'm deeply interested in<br>🚀 Android app development and<br>                                                        gaming experiences using ARCore,Google XR<br><br>I'm currently learning:<br>⚙️ Mobile Frontend Development - using Kotlin and jetpack compose<br>⚙️ Backend Development — building solid architectures with Firebase, <br>                                                      Kotlin, and modern APIs.<br><br>🧠 Artificial Intelligence
 
 
 ## 🌐 Socials:
